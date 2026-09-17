@@ -5,3 +5,4 @@ dist
 .vercel
 shot-*.png
 tsconfig.tsbuildinfo
+final.mjs
